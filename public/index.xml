@@ -24,5 +24,14 @@
           &lt;img src=&quot;https://example.org/macro/0001_hu16258558499013879595.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
+    <item>
+      <title>Nature</title>
+      <link>https://example.org/nature/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/nature/</guid><media:content url="https://example.org/nature/0001_hu17553279149343191380.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/nature/0001_hu17553279149343191380.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
   </channel>
 </rss>
