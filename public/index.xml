@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kevins Photos</title>
+    <title>Kevin&#39;s Photos</title>
     <link>https://example.org/</link>
-    <description>Recent content on Kevins Photos</description>
+    <description>Recent content on Kevin&#39;s Photos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,15 +13,6 @@
       <guid>https://example.org/animals/</guid><media:content url="https://example.org/animals/00010_hu9986096149464028031.jpg" type="image/jpeg"/>
         <description>
           &lt;img src=&quot;https://example.org/animals/00010_hu9986096149464028031.jpg&quot; /&gt;
-          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>Favorites</title>
-      <link>https://example.org/favorites/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/favorites/</guid><media:content url="https://example.org/favorites/00000_hu8659036409672170291.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://example.org/favorites/00000_hu8659036409672170291.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
