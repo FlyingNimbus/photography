@@ -15,5 +15,14 @@
           &lt;img src=&quot;https://example.org/favorites/0001_hu8659036409672170291.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
+    <item>
+      <title>Macro</title>
+      <link>https://example.org/macro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/macro/</guid><media:content url="https://example.org/macro/0001_hu16258558499013879595.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/macro/0001_hu16258558499013879595.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
   </channel>
 </rss>
