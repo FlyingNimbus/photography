@@ -1,37 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kevin&#39;s Photos</title>
     <link>https://example.org/</link>
     <description>Recent content on Kevin&#39;s Photos</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Animals</title>
       <link>https://example.org/animals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/animals/</guid><media:content url="https://example.org/animals/00010_hu9986096149464028031.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://example.org/animals/00010_hu9986096149464028031.jpg&quot; /&gt;
-          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
-        </description></item>
+      <guid>https://example.org/animals/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Favorites</title>
+      <link>https://example.org/favorites/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/favorites/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Macro</title>
       <link>https://example.org/macro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/macro/</guid><media:content url="https://example.org/macro/0001_hu16258558499013879595.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://example.org/macro/0001_hu16258558499013879595.jpg&quot; /&gt;
-          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
-        </description></item>
+      <guid>https://example.org/macro/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Nature</title>
       <link>https://example.org/nature/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/nature/</guid><media:content url="https://example.org/nature/0001_hu17553279149343191380.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://example.org/nature/0001_hu17553279149343191380.jpg&quot; /&gt;
-          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
-        </description></item>
+      <guid>https://example.org/nature/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

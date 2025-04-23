@@ -8,6 +8,8 @@
   </url><url>
     <loc>https://example.org/categories/</loc>
   </url><url>
+    <loc>https://example.org/favorites/</loc>
+  </url><url>
     <loc>https://example.org/macro/</loc>
   </url><url>
     <loc>https://example.org/nature/</loc>
